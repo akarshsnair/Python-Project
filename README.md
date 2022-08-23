@@ -1,2 +1,2 @@
 # Python-Project
-Simple Python project done for time pass..
+Simple Python projects done for time pass..
